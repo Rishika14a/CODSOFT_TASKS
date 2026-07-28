@@ -4,12 +4,7 @@ This repository contains the Python projects completed during my CodSoft Python 
 
 ## Projects
 
-### 1. To-Do List
-A command-line application to:
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
+
 
 ### 2. Calculator
 Performs:
@@ -18,9 +13,6 @@ Performs:
 - Multiplication
 - Division
 
-### 3. Password Generator
-- Generates secure random passwords
-- User chooses password length
 
 ### 4. Rock Paper Scissors Game
 - Play against the computer
